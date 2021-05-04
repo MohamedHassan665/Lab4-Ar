@@ -1,0 +1,3 @@
+vhdl work "MyPacge1.vhd"
+vhdl work "../Lab4HandsOn1/FLOP.vhd"
+vhdl work "FlopMainModule.vhd"

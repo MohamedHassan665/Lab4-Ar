@@ -1,0 +1,3 @@
+work	"../Lab4HandsOn1/FLOP.vhd"
+work	"FlopMainModule.vhd"
+work	"MyPacge.vhd"

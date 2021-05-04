@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\Second Year\Hands on lab architcure\LastProject\FlopMainModule.vhd" Line 47: Actual for formal port <arg fmt="%s" index="1">reset</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Rmap1/q_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FlopMainModule</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Rmap1/q_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Rmap2/q_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FlopMainModule</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Rmap2/q_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Rmap1/q_31</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FlopMainModule</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">30 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Rmap1/q_30&gt; &lt;Rmap1/q_29&gt; &lt;Rmap1/q_28&gt; &lt;Rmap1/q_27&gt; &lt;Rmap1/q_26&gt; &lt;Rmap1/q_25&gt; &lt;Rmap1/q_24&gt; &lt;Rmap1/q_23&gt; &lt;Rmap1/q_22&gt; &lt;Rmap1/q_21&gt; &lt;Rmap1/q_20&gt; &lt;Rmap1/q_19&gt; &lt;Rmap1/q_18&gt; &lt;Rmap1/q_17&gt; &lt;Rmap1/q_16&gt; &lt;Rmap1/q_15&gt; &lt;Rmap1/q_14&gt; &lt;Rmap1/q_13&gt; &lt;Rmap1/q_12&gt; &lt;Rmap1/q_11&gt; &lt;Rmap1/q_10&gt; &lt;Rmap1/q_9&gt; &lt;Rmap1/q_8&gt; &lt;Rmap1/q_7&gt; &lt;Rmap1/q_6&gt; &lt;Rmap1/q_5&gt; &lt;Rmap1/q_4&gt; &lt;Rmap1/q_3&gt; &lt;Rmap1/q_2&gt; &lt;Rmap1/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Rmap2/q_31</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">FlopMainModule</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">30 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Rmap2/q_30&gt; &lt;Rmap2/q_29&gt; &lt;Rmap2/q_28&gt; &lt;Rmap2/q_27&gt; &lt;Rmap2/q_26&gt; &lt;Rmap2/q_25&gt; &lt;Rmap2/q_24&gt; &lt;Rmap2/q_23&gt; &lt;Rmap2/q_22&gt; &lt;Rmap2/q_21&gt; &lt;Rmap2/q_20&gt; &lt;Rmap2/q_19&gt; &lt;Rmap2/q_18&gt; &lt;Rmap2/q_17&gt; &lt;Rmap2/q_16&gt; &lt;Rmap2/q_15&gt; &lt;Rmap2/q_14&gt; &lt;Rmap2/q_13&gt; &lt;Rmap2/q_12&gt; &lt;Rmap2/q_11&gt; &lt;Rmap2/q_10&gt; &lt;Rmap2/q_9&gt; &lt;Rmap2/q_8&gt; &lt;Rmap2/q_7&gt; &lt;Rmap2/q_6&gt; &lt;Rmap2/q_5&gt; &lt;Rmap2/q_4&gt; &lt;Rmap2/q_3&gt; &lt;Rmap2/q_2&gt; &lt;Rmap2/q_1&gt; </arg>
+</msg>
+
+</messages>
+

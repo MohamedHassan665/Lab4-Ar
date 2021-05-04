@@ -1,0 +1,4 @@
+vhdl isim_temp "MyPacge.vhd"
+vhdl isim_temp "../Lab4HandsOn1/FLOP.vhd"
+vhdl isim_temp "FlopMainModule.vhd"
+vhdl isim_temp "test.vhd"
